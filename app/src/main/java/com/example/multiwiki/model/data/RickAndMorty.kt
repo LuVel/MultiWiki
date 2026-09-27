@@ -1,4 +1,4 @@
-package com.example.multiwiki.model.Data
+package com.example.multiwiki.model.data
 
 data class RickAndMorty(
     val id: String
